@@ -1,0 +1,32 @@
+body{
+
+	width: 0 auto;
+	padding: 0 auto;
+	color:white;
+}
+
+
+
+
+#cont{
+	
+
+}
+
+
+
+
+
+header li a{
+	text-decoration: none;
+	display: inline;}
+  
+a:hover{
+	background-color: blue;
+	text-decoration: underline;
+	color: black;}
+.carol{
+	background-color: ;
+
+
+

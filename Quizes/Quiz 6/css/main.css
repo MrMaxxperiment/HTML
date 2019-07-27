@@ -1,0 +1,58 @@
+body {
+	background-color: white;
+	font-family: arial;
+}
+
+.cont{
+	background-color:lightblue;
+	width: 500px;
+	margin: 40px auto;
+}
+
+
+.cont table{ 
+		width: 100%;
+		border: 1px solid #aaa;
+		border-collapse: collapse;
+}
+
+.cont tr td{
+	padding: 10px;
+	border: 1px solid #aaa;
+}
+
+.cont table tr th{
+	background-color:pink;
+	padding: 10px;
+	color: white;
+}
+
+table tr:last-child td:last-child{
+	background-color:red;
+}
+
+/*.cont table tr :nth-child(-n+3){
+	background-color: green;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
